@@ -5,6 +5,7 @@ A Python tool for automatically renaming PS3 game update files (.pkg) with prope
 ## 🎮 Overview
 
 This tool helps organize PS3 game update files by renaming them from cryptic package names to a clean, readable format. It uses a CSV database to match title IDs with game names and versions.
+I recommend downloading the CSV file [here](https://github.com/Axekinn/ps3-update-scraper/blob/main/ps3_titles_updates/ps3_titles_download_links.csv) and adjusting the path in the code at the top.
 
 **Example transformation:**
 ```
